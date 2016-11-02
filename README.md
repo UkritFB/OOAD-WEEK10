@@ -77,3 +77,5 @@ POWERAMP -> SPEAKER
 @endum
 ```
 ![](http://www.plantuml.com/plantuml/img/bP2n3e8m48RtFiMDClW238Q3wq20NjCM3QE932RWeENzFL0HHxjS-t_t9TVB7l5yZzCug7YDGmzDwyi2R8sTTgfYDh0_G1wafa17UXDWiqj0BVdCsP5m7z1GtcqqZwN5MQsOrFhy6i1M6mX8y4Axv0-vgDdhNtaXqk4qqZnjkjo4gK-ocLOR0iA0gsNvf1qsTlwgvDm6smQrfjBXhSPA5YCdws-NQLHF)
+
+รูปที่ 3
