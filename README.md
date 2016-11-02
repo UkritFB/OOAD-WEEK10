@@ -61,7 +61,7 @@ BORD -> PUMOIL : JAINUMMON()
 
 รูปที่ 2
 
-``
+```
 @startuml
 title MUSIC PLAYER
 KOON -> BTON : DVD PLAYER ON() 
