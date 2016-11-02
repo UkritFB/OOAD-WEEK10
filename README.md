@@ -93,3 +93,19 @@ AMPLIFILER -> SPEAKER : SOUND()
 
 ```
 ![](http://www.plantuml.com/plantuml/img/NOx13e8m44Jl-nLxX8C_mC6mqXeRIajQq71gJEHW0Xwq_ByBJGpnDhjlPZBb9zxVSPadYCyuZUX8A0krjGOFH_ItmABWKsIRpX7IZ-79EX4sFnOf5vmaCMJvBtybtJTOUAbbrONgGeQqpBWaWRyIJnqPoHnsN_PGqsfrLbewda83gU1x4mOoxDonTMyhgLvjw6rl17E0SdmzbXc-)
+
+รูปที่ 4 
+```
+@startuml
+title START MOTOCICLE
+KOON -> SEB_KUN_JAA :FAII_ON() 
+KOON -> SW_ON : KOOD_START()
+SW_ON -> DISTART : ON_DISTART()
+DISTART -> JANFAI : DISTART_PAN_JANFAI()
+JANFAI -> ENGINE_START : START_MOTOCICLE()
+@endum
+
+```
+
+![](http://www.plantuml.com/plantuml/img/HOv13e9034NtSuekOU45M1WgZ6P0MoDZN3OciY015phSt-8Cklpll_osV8VxAypJQC8GnXuwZnSF9_PSkUfeJSjCiDb2PtVINaaQH2Zsw9mmPJdy-vi2A41pBT-HB3SHQbkxk5i0awIW_OhLQ91qLON4v8pBiGMgc5hrB1qSMLddeljxLrKmPVzyp9Fv0000)
+
