@@ -80,3 +80,16 @@ POWERAMP -> SPEAKER : SEND SOUND
 ![](http://www.plantuml.com/plantuml/img/bOyn3eCm34NtdC8Z3Bq0GuN16H0GHqbenLYf39MWGnlktuHIIiTEjl_pa-pywIyFFq-Zy3S_3j1sjYf1DzXB8sfc1OSZ52xK3EX4Am5MIGfYoIDdGu5RXugAVgTPh3H6jMOIs_WrWBLKu93WZPBq3xbisCfVUI5XmqYaU6ssT869JxAxLYe2GeURfVai3ROwlXfoxfpkdDZIi66rn3gylzgMEqKY7-xNUH8l)
 
 รูปที่ 3
+```
+@startuml
+title RADIO
+KOON -> SW_ON :KOOD(SW_ON) 
+SW_ON -> BORD_RADIO : RADIO_READY()
+KOON -> VALUM :SELECT_CHANALE() 
+VALUM -> BORD_RADIO :SATANEE()
+BORD_RADIO -> AMPLIFILER :KAYAI_SUN_YAN()
+AMPLIFILER -> SPEAKER : SOUND()
+@endum
+
+```
+![](http://www.plantuml.com/plantuml/img/NOx13e8m44Jl-nLxX8C_mC6mqXeRIajQq71gJEHW0Xwq_ByBJGpnDhjlPZBb9zxVSPadYCyuZUX8A0krjGOFH_ItmABWKsIRpX7IZ-79EX4sFnOf5vmaCMJvBtybtJTOUAbbrONgGeQqpBWaWRyIJnqPoHnsN_PGqsfrLbewda83gU1x4mOoxDonTMyhgLvjw6rl17E0SdmzbXc-)
